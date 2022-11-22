@@ -1,2 +1,8 @@
 # Heartprint
 A Dataset of Multisession ECG Signal with Long Interval Captured from Fingers for Biometric Recognition
+
+
+The electrocardiogram (ECG) signal produced by the human heart is an emerging biometric modality that can play an important role in the future generation’s identity recognition with the support of machine learning techniques. One of the major obstacles in the progress of this modality is the lack of public datasets with a long interval between sessions of data acquisition to verify the uniqueness and permanence of the biometric signature of the heart of a subject. To address this issue, we put forward Heartprint, a large biometric database of multisession ECG signals comprising 1539 records captured from the fingers of 199 healthy subjects. The capturing time for each record was 15 s, and recordings were made in resting and reading conditions. They were collected in multiple sessions over ten years, and the average interval between first session (S1) and third session (S3L) was 1572.2 days. The dataset also covers several demographic classes such as genders, ethnicities, and age groups. The combination of raw ECG signals and demographic information turns the Heartprint dataset, which is made publicly available online, into a valuable resource for the development and evaluation of biometric recognition algorithms.
+
+
+Islam, M.S.; Alhichri, H.; Bazi, Y.; Ammour, N.; Alajlan, N.; Jomaa, R.M. Heartprint: A Dataset of Multisession ECG Signal with Long Interval Captured from Fingers for Biometric Recognition. Data 2022, 7, 141. https://doi.org/10.3390/data7100141 
